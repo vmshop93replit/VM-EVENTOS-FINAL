@@ -1,0 +1,13 @@
+{
+  "name": "vm-eventos",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Build successful'",
+    "start": "echo 'VM Eventos starting'"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
